@@ -26,8 +26,7 @@ const { text, error } = storeToRefs(store)
 
 <style scoped lang="scss">
 .form {
-  width: 100%;
-  height: 100%;
+  width: 80%;
   display: flex;
   justify-content: space-between;
   align-items: flex-end;

@@ -12,6 +12,7 @@ import TasksList from '@/components/TasksList.vue'
 
 <style scoped>
 .tasks-view {
+  padding: 2rem;
   display: flex;
   flex-direction: column;
   align-items: center;
